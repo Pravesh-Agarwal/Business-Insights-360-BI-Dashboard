@@ -79,4 +79,5 @@ Let's explore the diverse views within the project:
 
 ## 🔗Resource Links
 &ensp;<b>- Business Insights 360 Interactive Dashboard :</b>&emsp;_[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)_<br />
-&ensp;<b>- All Projects :</b>&emsp;_[All Projects](https://www.novypro.com/profile_projects/pravesh-agarwal)_
+&ensp;<b>- All Projects :</b>&emsp;_[All Projects](https://www.novypro.com/profile_projects/pravesh-agarwal)_<br />
+&ensp;<b>- LinkedIn Post :</b>&emsp;_[LinkedIn Post]([https://www.novypro.com/profile_projects/pravesh-agarwal](https://www.linkedin.com/posts/pravesh-agarwal2708_business-insights-360-activity-7167246120123785216-lPp_?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/pravesh-agarwal2708_business-insights-360-activity-7167246120123785216-lPp_?utm_source=share&utm_medium=member_desktop)_
