@@ -58,20 +58,20 @@ Throughout this project, we gained valuable skills and knowledge, including:
 Let's explore the diverse views within the project:
 
 - 🏦 <b>Finance View:</b><br />
-&ensp;&ensp;&ensp;Unveil Profit and Loss Statements, Net Sales Performance Over Time, and Impactful Top & Bottom Product Analysis.
+&ensp;&emsp;Unveil Profit and Loss Statements, Net Sales Performance Over Time, and Impactful Top & Bottom Product Analysis.
 
 - 💼 <b>Sales View:</b><br />
-&ensp;&ensp;&ensp;Decode Customer and Product Performances influenced by Net Sales and Gross Margin Percentage.
+&ensp;&emsp;Decode Customer and Product Performances influenced by Net Sales and Gross Margin Percentage.
 
 - 🎯 <b>Marketing View:</b><br />
-&ensp;&ensp;&ensp;Discover Region/Market/Customer Performances influenced by Net Sales, Gross Margin, and Net Profit %.
+&ensp;&emsp;Discover Region/Market/Customer Performances influenced by Net Sales, Gross Margin, and Net Profit %.
 
 - 🚚 <b>Supply Chain View:</b><br />
-&ensp;&ensp;&ensp;Explore Key Metrics by Customer, Product, and Net Error Trend using Forecast Accuracy, Net Error, Absolute Error, and Risk.
+&ensp;&emsp;Explore Key Metrics by Customer, Product, and Net Error Trend using Forecast Accuracy, Net Error, Absolute Error, and Risk.
 
 - 👔 <b>Executive View:</b><br />
-&ensp;&ensp;&ensp;Access Strategic Insights by Subzone, Top 5 Customers/Products, and AtliQ's PC Market Share Trends, along with Yearly Revenue Trends.
+&ensp;&emsp;Access Strategic Insights by Subzone, Top 5 Customers/Products, and AtliQ's PC Market Share Trends, along with Yearly Revenue Trends.
 
 ## Resource Link
-&ensp;🔗 <b>Business Insights 360 Interactive dashboard :</b> _[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)_<br />
-&ensp;🔗 <b>All Projects :</b> _[All Projects](https://www.novypro.com/profile_projects/pravesh-agarwal)_
+&ensp;🔗 <b>Business Insights 360 Interactive dashboard :</b>&emsp;_[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)_<br />
+&ensp;🔗 <b>All Projects :</b>&emsp;_[All Projects](https://www.novypro.com/profile_projects/pravesh-agarwal)_
