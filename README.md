@@ -73,5 +73,5 @@ Let's explore the diverse views within the project:
 &ensp;&emsp;Access Strategic Insights by Subzone, Top 5 Customers/Products, and AtliQ's PC Market Share Trends, along with Yearly Revenue Trends.
 
 ## Resource Link
-&ensp;🔗 <b>Business Insights 360 Interactive dashboard :</b>&emsp;_[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)_<br />
+&ensp;🔗 <b>Business Insights 360 Interactive Dashboard :</b>&emsp;_[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWE1M2Q3ODctYzljZC00M2NjLTgwYmQtOWI0NWY5ZDY5MDU1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)_<br />
 &ensp;🔗 <b>All Projects :</b>&emsp;_[All Projects](https://www.novypro.com/profile_projects/pravesh-agarwal)_
