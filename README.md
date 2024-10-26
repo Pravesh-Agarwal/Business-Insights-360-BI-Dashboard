@@ -99,7 +99,7 @@ Fact table : It will have the data about the transactions
         - **27** distinct markets (ex India, USA, Spain)
         - **75** distinct customers thorough out the market
         - **2** types of platforms
-            - Brick & Motors - Physical/offline store
+            - Brick & Mortar - Physical/offline store
             - E-commerce - Online Store (Amazon, flipkart)
         - Three channels
             - Retailer
