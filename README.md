@@ -156,7 +156,7 @@ Fact table : It will have the data about the transactions
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - Following good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
+- In this project, we have followed Snowflake data modeling method.
 
 <img src="https://github.com/Pravesh-Agarwal/Business-Insights-360-BI-Dashboard/blob/main/Resources/Data_model.png" class="center">
 
